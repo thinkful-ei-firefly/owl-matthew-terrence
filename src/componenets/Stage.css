@@ -1,0 +1,18 @@
+ 
+
+.stage {
+    display: flex;
+    background-color: aquamarine;
+    width:100%;
+    justify-content: space-between;
+
+} 
+
+.stagePeeps {
+
+        -webkit-transform:scale(0.5);
+        -moz-transform:scale(0.5);
+        -ms-transform:scale(0.5);
+        transform:scale(0.5);
+        
+}
