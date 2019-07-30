@@ -1,0 +1,13 @@
+.participant {
+  display: flex;
+  padding: 1rem;
+  border: 1px solid grey;
+  width: 10rem;
+}
+
+.avatar {
+  display: inline-block;
+  width: 3rem;
+  height: 3rem;
+  border-radius: 50%;
+}

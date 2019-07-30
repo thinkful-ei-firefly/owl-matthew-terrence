@@ -1,0 +1,9 @@
+.sidebar {
+  display: flex;
+  flex-direction: column;
+  justify-content: left;
+}
+.button {
+  height: 3rem;
+  width: 5rem;
+}
